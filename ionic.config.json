@@ -1,0 +1,7 @@
+{
+  "name": "zapple",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
